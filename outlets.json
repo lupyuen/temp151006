@@ -1,0 +1,82 @@
+{
+  "status": "SUCCESS",
+  "message": [
+    "SUCCESS"
+  ],
+  "data": [
+    {
+      "id": "0",
+      "type": "outlet",
+      "outlet": "marcomarco",
+      "width": "10",
+      "height": "13",
+      "label": "Marco Marco Millenia Walk",
+      "image": "https://d21lq3parp0dpw.cloudfront.net/images/marcomarco.jpg"
+    },
+    {
+      "id": "1",
+      "type": "outlet",
+      "outlet": "marcomarco",
+      "width": "10",
+      "height": "10",
+      "outletId": "10",
+      "label": "2 for 1 Promo",
+      "image": "https://d21lq3parp0dpw.cloudfront.net/media/catalog/category/Promo_1.jpg"
+    },
+    {
+      "id": "2",
+      "type": "outlet",
+      "outlet": "pancaketrain",
+      "width": "10",
+      "height": "13",
+      "label": "The Pancake Train",
+      "image": "https://d21lq3parp0dpw.cloudfront.net/images/pancaketrain.jpg"
+    },
+    {
+      "id": "3",
+      "type": "message",
+      "image": "https://d21lq3parp0dpw.cloudfront.net/images/wifi.jpg",
+      "label": "Get your free WiFi password here",
+      "url": "http://webreadsg.wordpress.com",
+      "width": "10",
+      "height": "7"
+    },
+    {
+      "id": "4",
+      "type": "loyalty",
+      "width": "10",
+      "height": "7",
+      "outletId": "10",
+      "label": "You have 50 Makan Points! Save $5 on your next meal",
+      "image": "https://d21lq3parp0dpw.cloudfront.net/media/catalog/category/Loyalty.jpg"
+    },
+    {
+      "id": "5",
+      "type": "outlet",
+      "outlet": "kmcafe",
+      "width": "10",
+      "height": "13",
+      "label": "KM Cafe",
+      "image": "http://d21lq3parp0dpw.cloudfront.net/media/catalog/category/KM_Cafe_1.jpg"
+    },
+    {
+      "id": "6",
+      "type": "outlet",
+      "outlet": "eighttwotwo",
+      "width": "10",
+      "height": "13",
+      "label": "Eight Two Two Bistro",
+      "image": "http://d21lq3parp0dpw.cloudfront.net/media/catalog/category/Eight_Two_Two.jpg"
+    },
+    {
+      "id": "7",
+      "type": "outlet",
+      "outlet": "cafeplusplus",
+      "width": "10",
+      "height": "13",
+      "outletId": "9",
+      "label": "Cafe Plus Plus",
+      "image": "http://d21lq3parp0dpw.cloudfront.net/media/catalog/category/Cafe_Plus_Plus.jpg"
+    }
+  ]
+}
