@@ -57,7 +57,7 @@
       "width": "10",
       "height": "13",
       "label": "KM Cafe",
-      "image": "http://d21lq3parp0dpw.cloudfront.net/media/catalog/category/KM_Cafe_1.jpg"
+      "image": "https://d21lq3parp0dpw.cloudfront.net/media/catalog/category/KM_Cafe_1.jpg"
     },
     {
       "id": "6",
@@ -66,7 +66,7 @@
       "width": "10",
       "height": "13",
       "label": "Eight Two Two Bistro",
-      "image": "http://d21lq3parp0dpw.cloudfront.net/media/catalog/category/Eight_Two_Two.jpg"
+      "image": "https://d21lq3parp0dpw.cloudfront.net/media/catalog/category/Eight_Two_Two.jpg"
     },
     {
       "id": "7",
@@ -76,7 +76,7 @@
       "height": "13",
       "outletId": "9",
       "label": "Cafe Plus Plus",
-      "image": "http://d21lq3parp0dpw.cloudfront.net/media/catalog/category/Cafe_Plus_Plus.jpg"
+      "image": "https://d21lq3parp0dpw.cloudfront.net/media/catalog/category/Cafe_Plus_Plus.jpg"
     }
   ]
 }
