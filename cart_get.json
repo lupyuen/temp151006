@@ -1,0 +1,72 @@
+{
+  "status": "SUCCESS",
+  "message": [
+    "SUCCESS"
+  ],
+  "data": [
+    {
+      "outlet": "marcomarco",
+      "cart_item_id": "4483",
+      "product_id": "17",
+      "type": "item",
+      "image": "https://d21lq3parp0dpw.cloudfront.net/media/catalog/product/cache/1/small_image/600x600/040ec09b1e35df139433887a97daa66f/s/a/salmon.jpg",
+      "label": "Salmon with Avocado Salsa",
+      "label2": "$16.00",
+      "label3": null,
+      "quantity": "1",
+      "button": null,
+      "value": 16
+    },
+    {
+      "id": "discount",
+      "type": "item",
+      "label": "Redeem 50 Makan Points",
+      "label2": "-$5.00",
+      "value": 5
+    },
+    {
+      "id": "total",
+      "type": "footer",
+      "label": "Dining In - Total:",
+      "label2": "$11.00",
+      "value": 11,
+      "height": "70"
+    },
+    {
+      "id": "pay",
+      "type": "item",
+      "label": null,
+      "label2": "Pay Now >>",
+      "url": "https://nothing",
+      "height": "70"
+    },
+    {
+      "id": "submit",
+      "type": "footer",
+      "button": "Submit your order when seated >>"
+    },
+    {
+      "id": "help",
+      "type": "message",
+      "label": "Tap \"Submit when seated\" to submit your order when you are seated. Tap here for details.",
+      "url": "http://nothing",
+      "height": "150"
+    }
+  ],
+  "paypalitems": [
+    {
+      "quantity": "1",
+      "name": "Salmon with Avocado Salsa",
+      "price": "16.00",
+      "currency": "SGD",
+      "sku": "mp_17"
+    },
+    {
+      "quantity": 1,
+      "name": "Redeem 50 Makan Points",
+      "price": "-5.00",
+      "currency": "SGD",
+      "sku": "discount"
+    }
+  ]
+}
