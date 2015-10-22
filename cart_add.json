@@ -37,7 +37,7 @@
       "type": "item",
       "label": null,
       "label2": "Pay Now >>",
-      "url": "https://fnbserver.mod.bz/payment?paymentRequestID=b09062e5-a5a2-5221-21d9-54d8dd7748ed-72935098-a98f-3748-5545-e856e1253cab",
+      "url": "https://nothing",
       "height": "70"
     },
     {
@@ -49,7 +49,7 @@
       "id": "help",
       "type": "message",
       "label": "Tap \"Submit when seated\" to submit your order when you are seated. Tap here for details.",
-      "url": "http://www.makanpoints.com",
+      "url": "http://nothing",
       "height": "150"
     }
   ],
